@@ -24,6 +24,7 @@ This is a mini app that can draw rectangle shapes (currently static) like Figma/
    c. Submitting that form should add a new shape on the page according to the data filled in the form.
 5. Do you see any current or potential performance bottlenecks in this app? List them as separate issues on GitHub explaining how exactly they can affect the app.
 6. Surprise us! Show us your creativity by improving the current app.
+7. Create a vercel or any other link of the output and share it to us.
 
 ## Points to keep in mind
 
